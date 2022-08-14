@@ -3,7 +3,7 @@
   "lockfileVersion": 1,
   "dependencies": {
     "@openzeppelin/contracts": "^3.3.0",
-    "@openzeppelin/contracts-upgradeable": "^3.3.0",
+    "@openzeppelin/contracts-upgradeable": "^4.7.2",
     "web3-provider-engine": "^16.0.1"
   },
   "devDependencies": {
